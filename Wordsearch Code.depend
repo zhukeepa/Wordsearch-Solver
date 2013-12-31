@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1216484720 source:c:\users\alex\documents\old c++ stuff\wordsearch solver\array2d.cpp
+	"Array2D.h"
+	"WordsearchExceptions.h"
+
+1216483852 c:\users\alex\documents\old c++ stuff\wordsearch solver\array2d.h
+	<cstdlib>
+
+1216485168 c:\users\alex\documents\old c++ stuff\wordsearch solver\wordsearchexceptions.h
+	<iostream>
+
+1216570408 source:c:\users\alex\documents\old c++ stuff\wordsearch solver\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<utility>
+	<vector>
+	<cmath>
+	"Globals.h"
+	"Array2D.h"
+	"Array2D.cpp"
+
+1216511382 c:\users\alex\documents\old c++ stuff\wordsearch solver\globals.h
+	"LocationData.h"
+	"WordsearchExceptions.h"
+	"Array2D.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1216560328 c:\users\alex\documents\old c++ stuff\wordsearch solver\locationdata.h
+	<utility>
+
+1216484720 c:\users\alex\documents\old c++ stuff\wordsearch solver\array2d.cpp
+	"Array2D.h"
+	"WordsearchExceptions.h"
+
